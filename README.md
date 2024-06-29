@@ -95,7 +95,6 @@ In our way to implemente this project, we've passed with the following steps :
 <div align="center">
   <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner" width="1200" height="350">
 </div>
-<hr>
 
 <a name="dashboard"></a>
 ## 📊 Dashboard
