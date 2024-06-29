@@ -93,5 +93,5 @@ In our way to implemente this project, we've passed with the following steps :
 <a name="arch"></a>
 ## 📝 Project Architecture
 <div align="center">
-  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner" width="600">
+  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner" width="1200">
 </div>
