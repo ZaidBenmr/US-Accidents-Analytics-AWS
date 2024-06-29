@@ -93,5 +93,5 @@ In our way to implemente this project, we've passed with the following steps :
 <a name="arch"></a>
 ## 📝 Project Architecture
 <div align="center">
-  <img src="https://github.com/ZaidBenmr/Cryptocurrency-Data-Engineering-Project/assets/105943885/8f8ddd7b-dc15-4882-abee-a7549dfb81f6" alt="Banner">
+  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner">
 </div>
