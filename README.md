@@ -24,8 +24,8 @@
 1. [ Project Overview ](#introduction)
 2. [ Dashboard ](#dashboard)
 3. [ Project Architecture ](#arch)
-4. [ Web Scraping ](#webscraping)
-5. [ Installation ](#installation)
+4. [ Key insights ](#features)
+5. [ Data Model ](#datamodel)
 6. [ Contact ](#contact)
 <hr>
 
@@ -104,3 +104,43 @@ In our way to implemente this project, we've passed with the following steps :
 <div align="center">
   <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/US Accidents dashboard 2.PNG" alt="Banner">
 </div>
+
+### 🛠️ Technologies Used
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<a name="features"></a>
+## 🕵️ Key Insights
+
+- 🚗 **Total Accidents and Geographic Spread**
+  - The dashboard highlights a total of 7 Millions accidents recorded, indicating a significant impact nationwide. Analysis reveals that accidents are spread across 49 states, underscoring the widespread nature of these incidents.
+
+- 🏙️ **City with the Highest Accident Frequency**
+  - Miami stands out as the city with the highest number of accidents, emphasizing localized challenges and the need for targeted safety measures in urban areas.
+
+- 🌡️ **Severity Analysis**
+  - A notable 273k of accidents are classified as severe, highlighting critical areas where safety protocols and emergency response strategies are crucial.
+
+- 📊 **Temporal Patterns and Environmental Influences**
+  - Accidents peak on Friday days, suggesting potential causal factors and opportunities for targeted interventions to reduce accident rates.
+  - Seasonal variations are evident in the data, with December months showing higher accident rates, indicating seasonal influences on accident frequency.
+
+- 🔥 **Severity Heatmap and Environmental Factors**
+  - The severity heatmap identifies hotspots where accidents are most severe, guiding resource allocation and emergency response efforts to these critical areas.
+  - Analysis of accidents based on temperature and pressure reveals correlations, with 18% occurring at temperature 73 and 10.48% at pressure 29.96, providing insights into environmental conditions that impact accident severity.
+
+- 📈 **Average Severity Metrics**
+  - Average severity metrics highlight variations in accident outcomes based on temperature and wind speed, providing insights into the relationship between environmental conditions and accident severity.
+
+
+<a name="installation"></a>
+## 🛢️ Data Model : 
+
+<a name="contact"></a>
+## 📨 Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/zaid-benamar/) •
+[Gmail](zaid.benmr@gmail.com)
