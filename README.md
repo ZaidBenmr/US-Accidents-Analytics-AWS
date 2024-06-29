@@ -94,5 +94,5 @@ In our way to implemente this project, we've passed with the following steps :
 ## 📝 Project Architecture
 ## 📝 Project Architecture
 <div align="center">
-  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner" width="900" height="900">
+  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner" width="900" height="400">
 </div>
