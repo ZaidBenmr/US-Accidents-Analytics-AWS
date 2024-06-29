@@ -95,3 +95,5 @@ In our way to implemente this project, we've passed with the following steps :
 <div align="center">
   <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner">
 </div>
+
+![architecture](https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG)
