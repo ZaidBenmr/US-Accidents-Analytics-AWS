@@ -96,6 +96,13 @@ In our way to implemente this project, we've passed with the following steps :
   <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/architecture.PNG" alt="Banner" width="1200" height="350">
 </div>
 
+### 🛠️ Technologies Used
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 <a name="dashboard"></a>
 ## 📊 Dashboard
 <div align="center">
@@ -104,13 +111,6 @@ In our way to implemente this project, we've passed with the following steps :
 <div align="center">
   <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/US Accidents dashboard 2.PNG" alt="Banner">
 </div>
-
-### 🛠️ Technologies Used
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <a name="features"></a>
 ## 🕵️ Key Insights
