@@ -100,8 +100,8 @@ In our way to implemente this project, we've passed with the following steps :
 ## 📊 Dashboard
 ### Power BI
 <div align="center">
-  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/US Accidents dashboard 1.PNG" alt="Banner" width="1200" height="350">
+  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/US Accidents dashboard 1.PNG" alt="Banner">
 </div>
 <div align="center">
-  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/US Accidents dashboard 2.PNG" alt="Banner" width="1200" height="350">
+  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/US Accidents dashboard 2.PNG" alt="Banner">
 </div>
