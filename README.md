@@ -136,8 +136,11 @@ In our way to implemente this project, we've passed with the following steps :
   - Average severity metrics highlight variations in accident outcomes based on temperature and wind speed, providing insights into the relationship between environmental conditions and accident severity.
 
 
-<a name="installation"></a>
+<a name="datamodel"></a>
 ## 🛢️ Data Model : 
+<div align="center">
+  <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/data model.PNG" alt="Banner">
+</div>
 
 <a name="contact"></a>
 ## 📨 Contact Me
