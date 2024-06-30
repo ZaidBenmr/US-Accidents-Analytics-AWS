@@ -148,7 +148,7 @@ In our way to implemente this project, we've passed with the following steps :
 
 - This Project is inspired by :
   - The video of the [YouTube Channel Darshil Parmar](https://www.youtube.com/watch?v=qBocgdMGEWs&list=PLBJe2dFI4sgvavQzL2Hm5CsnoIWHY5fI3)
-  - The github profile of Hamza El Belghiti [Hamagistral](https://github.com/Hamagistral/VCT2023-Kafka-AWS)
+  - The github profile of [Hamagistral](https://github.com/Hamagistral/VCT2023-Kafka-AWS)
 
 <a name="contact"></a>
 ## 📨 Contact Me
