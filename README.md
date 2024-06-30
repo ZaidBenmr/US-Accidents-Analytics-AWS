@@ -22,8 +22,8 @@
 ## 📝 Table of Contents
 
 1. [ Project Overview ](#introduction)
-2. [ Dashboard ](#dashboard)
-3. [ Project Architecture ](#arch)
+2. [ Project Architecture ](#arch)
+3. [ Dashboard ](#dashboard)
 4. [ Key insights ](#features)
 5. [ Data Model ](#datamodel)
 6. [ Contact ](#contact)
