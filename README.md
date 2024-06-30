@@ -26,7 +26,8 @@
 3. [ Dashboard ](#dashboard)
 4. [ Key insights ](#features)
 5. [ Data Model ](#datamodel)
-6. [ Contact ](#contact)
+6. [ Credits ](#refs)
+7. [ Contact ](#contact)
 <hr>
 
 
@@ -141,6 +142,13 @@ In our way to implemente this project, we've passed with the following steps :
 <div align="center">
   <img src="https://github.com/ZaidBenmr/Accidentsdep/blob/main/images/data model.PNG" alt="Banner">
 </div>
+
+<a name="refs"></a>
+## 📋 Credits
+
+- This Project is inspired by :
+  - The video of the [YouTube Channel Darshil Parmar](https://www.youtube.com/watch?v=qBocgdMGEWs&list=PLBJe2dFI4sgvavQzL2Hm5CsnoIWHY5fI3)
+  - The github profile of Hamza El Belghiti [Hamagistral](https://github.com/Hamagistral/VCT2023-Kafka-AWS)
 
 <a name="contact"></a>
 ## 📨 Contact Me
